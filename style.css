@@ -1,6 +1,6 @@
 
   
-  body {
+ body {
     background-color: 'black' ;
     background-image: url("belly1.jpg");
     color: black;
@@ -15,7 +15,7 @@
     overflow: hidden;
     color: black;
   }
-  ul {
+ ul {
     list-style-type: none;
     text-align: right;
     font-size: x-large;
