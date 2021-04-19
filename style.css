@@ -1,6 +1,6 @@
 
   
-  body {
+ body {
     background-color: 'black' ;
     background-image: url("belly1.jpg");
 
@@ -12,10 +12,10 @@
   }
   .navbar  {
     background-image: url("belly2.jpg");
-
+    background-color: antiquewhite;
   }
   ul {
-
+    list-style-type: none;
     text-align: right;
     font-size: x-large;
 
