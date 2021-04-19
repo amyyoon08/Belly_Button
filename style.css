@@ -3,7 +3,7 @@
   body {
     background-color: 'black' ;
     background-image: url("belly1.jpg");
-    color: black;
+
   }
 .jumbotron {
     background-image: url("belly.jpg");
@@ -12,12 +12,11 @@
   }
   .navbar  {
     background-image: url("belly2.jpg");
-    overflow: hidden;
-    color: black;
+
   }
   ul {
-    list-style-type: none;
+
     text-align: right;
     font-size: x-large;
-    color: cornsilk;
+
   }
